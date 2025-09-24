@@ -1,5 +1,11 @@
 # Vehicle Rental Project
 
+## Usage
+
+1. Compile the code:
+   ```bash
+   g++ main.cpp -o rental
+
 A simple C++ console application to manage vehicle rentals, allowing users to add, remove, and rent cars and bikes.
 
 ## Features
@@ -20,8 +26,4 @@ A simple C++ console application to manage vehicle rentals, allowing users to ad
 - **Car (Derived Class):** Adds number of seats.  
 - **Bike (Derived Class):** Adds engine capacity.  
 
-## Usage
 
-1. Compile the code:
-   ```bash
-   g++ main.cpp -o rental
