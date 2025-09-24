@@ -5,6 +5,9 @@
 1. Compile the code:
    ```bash
    g++ main.cpp -o rental
+2. Execute the compiled file:
+   ```bash
+   ./rental
 
 A simple C++ console application to manage vehicle rentals, allowing users to add, remove, and rent cars and bikes.
 
